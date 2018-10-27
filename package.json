@@ -4,8 +4,7 @@
   "description": "This is simple aws lambda function that use `mongodump` to backup mongodb database.",
   "main": "index.js",
   "dependencies": {
-   
-    "zip-folder": "^1.0.0"
+    "archiver": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {

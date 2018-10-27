@@ -1,2 +1,5 @@
 .idea
 node_modules
+lamda-mongodb-s3-backup.zip
+.DS_Store
+package-lock.json
